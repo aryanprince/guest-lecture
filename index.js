@@ -19,4 +19,4 @@ function divideNumbers(a, b) {
 console.log("4 + 5 = ", addNumbers(4, 5));
 console.log("9 - 3 = ", subtractNumbers(9, 3));
 console.log("12 * 4 = ", multiplyNumbers(12, 4));
-console.log("20 / 2 = ", divideNumbers(20, 2));
+console.log("33 / 11 = ", divideNumbers(33, 11));
