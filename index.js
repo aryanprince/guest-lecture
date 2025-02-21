@@ -13,7 +13,7 @@ function multiplyNumbers(a, b) {
 }
 
 function divideNumbers(a, b) {
-  return a * b;
+  return a + b;
 }
 
 console.log("4 + 5 = ", addNumbers(4, 5));
